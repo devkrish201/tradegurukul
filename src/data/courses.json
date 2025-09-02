@@ -1,0 +1,38 @@
+  [
+  {
+    "id": 1,
+    "slug": "forex-crypto-masterclass",
+    "title": "Master Forex & Crypto Trading - From Basics to Funded Trader",
+    "image": "/img/course/forex-crypto-masterclass.jpg",
+    "detailsImg": "/img/event/forex-details.jpg",
+    "category": "Trading",
+    "ratingCount": "4.9",
+    "lessonCount": "25",
+    "studentCount": "150",
+    "duration": "40h 00m",
+    "classTime": "Flexible / Self-paced",
+    "totalLecture": "50",
+    "skillLevel": "Beginner to Advanced",
+    "classDay": "Monday - Friday",
+    "language": "Hindi & English",
+    "author": "TheTradingGurukul Team",
+    "price": "70000",
+    "prevPrice": "120000",
+    "btnText": "Enroll Now",
+    "topics": [
+      "Introduction to Forex and Crypto markets",
+      "Technical analysis & market structure",
+      "Risk management & capital preservation",
+      "Psychology of trading",
+      "Strategy building with backtesting",
+      "How to qualify for funded accounts"
+    ],
+    "contentDelivery": [
+      "📹 HD Video Lessons",
+      "📝 PDFs & Notes",
+      "📆 Weekly Live Q&A",
+      "🧠 Real-world Assignments"
+    ],
+    "description": "Join India’s premier trading education platform and master Forex & Crypto trading. Get access to real $10,000 funded accounts after completing the course and passing evaluations. This course includes full mentorship, live sessions, strategy building, and risk management techniques designed to make you a confident, funded trader."
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "slug": "forex-fundamentals",
+    "title": "Forex Fundamentals",
+    "icon": "flaticon-bars",
+    "image": "/img/course/c8.png",
+    "courseCount": "15",
+    "description": "Master the basics of foreign exchange markets, currency pairs, and fundamental analysis techniques.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 2,
+    "slug": "crypto-trading-basics",
+    "title": "Crypto Trading Basics",
+    "icon": "flaticon-coding",
+    "image": "/img/course/c4.png",
+    "courseCount": "12",
+    "description": "Learn cryptocurrency markets, blockchain technology, and digital asset trading strategies.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 3,
+    "slug": "technical-analysis-mastery",
+    "title": "Technical Analysis & Market Structure",
+    "icon": "flaticon-study",
+    "image": "/img/course/c9.png",
+
+    "courseCount": "25",
+    "description": "Deep dive into chart patterns, indicators, support/resistance, and market structure analysis.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 4,
+    "slug": "risk-management",
+    "title": "Risk Management & Capital Preservation",
+    "icon": "flaticon-promotion",
+    "image": "/img/course/c3.png",
+    "courseCount": "18",
+    "description": "Learn position sizing, stop losses, risk-reward ratios, and capital preservation techniques.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 5,
+    "slug": "trading-psychology",
+    "title": "Psychology of Trading",
+    "icon": "flaticon-coach",
+    "image": "/img/course/c2.png",
+    "courseCount": "22",
+    "description": "Master emotional control, discipline, and mental strategies for consistent trading success.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 6,
+    "slug": "strategy-building-backtesting",
+    "title": "Strategy Building & Backtesting",
+    "icon": "flaticon-web-design",
+    "image": "/img/course/c7.png",
+    "courseCount": "20",
+    "description": "Develop, test, and optimize your trading strategies using historical data and backtesting tools.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 7,
+    "slug": "prop-funding-qualification",
+    "title": "How to Qualify for Funded Accounts",
+    "icon": "flaticon-art",
+    "image": "/img/course/c1.png",
+
+    "courseCount": "16",
+    "description": "Learn the process, requirements, and strategies to qualify for real funded trading accounts.",
+    "btnText": "Start Learning"
+  },
+  {
+    "id": 8,
+    "slug": "advanced-trading-techniques",
+    "title": "Advanced Trading Techniques",
+    "icon": "flaticon-mobile-development",
+    "image": "/img/course/c6.png",
+    "courseCount": "28",
+    "description": "Advanced scalping, swing trading, and multi-timeframe analysis for experienced traders.",
+    "btnText": "Start Learning"
+  }
+]

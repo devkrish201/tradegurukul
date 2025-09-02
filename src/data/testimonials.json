@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "slug": "testimonial-1",
+    "authorName": "Aniket S.",
+    "designation": "Raipur",
+    "bio": "I never thought I’d get access to $10,000 in real capital. TheTradingGurukul made it possible.",
+    "image": "/img/avatar/avatar-3-1.png",
+    "rating": "5"
+  },
+  {
+    "id": 2,
+    "slug": "testimonial-2",
+    "authorName": "Sahil J.",
+    "designation": "Mumbai",
+    "bio": "The demo account helped me learn without fear of loss. Highly recommended for beginners.",
+    "image": "/img/avatar/avatar-3-1.png",
+    "rating": "5"
+  },
+  {
+    "id": 3,
+    "slug": "testimonial-3",
+    "authorName": "Jyoti R.",
+    "designation": "Bhopal",
+    "bio": "Their mentorship is gold. Weekly Zoom calls are super valuable.",
+    "image": "/img/avatar/avatar-2.png",
+    "rating": "5"
+  }
+]
