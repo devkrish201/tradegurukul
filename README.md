@@ -10,10 +10,13 @@
 TheTradingGurukul is India’s **premier Forex & Crypto trading education platform**.  
 We don’t just teach trading — **we fund our students** with **real $10,000 accounts** after training.  
 
+🔗 **[Visit Live Project](https://tradegurukul.netlify.app)**  
+
 ✅ Structured Courses  
 ✅ Live Mentorship & Guidance  
 ✅ Prop Trading Accounts  
 ✅ Community-Driven Support  
+
 
 ---
 
